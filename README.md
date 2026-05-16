@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech CSE Student | AI & ML Developer  <br>Building real-world AI applications using LLMs, Computer Vision, Automation & Data Science.  <br>Focused on Agriculture AI, Agentic Systems, Ml models and projects, neural networks, Ai research, natural language, deep learning<br>hobbies.<br>skills  
+B.Tech CSE Student | AI & ML Developer  <br>Building real-world AI applications using LLMs, Computer Vision, Automation & Data Science.  <br>Focused on Agriculture AI, Agentic Systems, Ml models and projects, neural networks, Ai research, natural language, deep learning.  
 
 
 ## 🌐 Socials:
