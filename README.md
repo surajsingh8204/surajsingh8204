@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suraj Singh
+# 👋 Hi, I'm Suraj 
 
 ### AI/ML Engineer • Full-Stack AI Developer • Agentic AI • Deep Learning
 
@@ -155,6 +155,7 @@ A deployed computer-vision system with separate CNN models for multiple crops.
 - React frontend with image upload/cropping
 
 🔗 [GitHub](https://github.com/surajsingh8204/PlantDiseaseDetection)
+🌐 [Live App](https://plant-disease-frontend-ibpp.onrender.com)
 
 ---
 
